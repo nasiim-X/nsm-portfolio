@@ -1,0 +1,1 @@
+web: gunicorn nsm-portfolio.wsgi --log-file -
